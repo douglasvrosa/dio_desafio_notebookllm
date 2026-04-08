@@ -1,4 +1,4 @@
-# dio_desafio_notebookllm🚀 Miniguia de Estudos com IA: Python + FastAPI
+🚀 Miniguia de Estudos com IA: Python + FastAPI
 🎯 Contexto e Objetivos
 
 Este projeto tem como objetivo consolidar conhecimentos no desenvolvimento de APIs utilizando Python com FastAPI, com o apoio de Inteligência Artificial como ferramenta de aprendizagem ativa.
